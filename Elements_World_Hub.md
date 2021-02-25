@@ -28,7 +28,7 @@ P.S. 删除线内容表示“此处应该有设定”，但是没想好，就把
   + [元素人](#anchor10)
   + [地理](#anchor11)
   + [历史、政治、经济、社会](#anchor12)
-    = the Coalition Government of Elehumans元素联合政府(CGE)
+    ~ the Coalition Government of Elehumans元素联合政府(CGE)
   + [时间线](#anchor13)
 - 元素叙事
   + [开端](#anchor14)
