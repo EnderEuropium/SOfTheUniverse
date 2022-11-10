@@ -1,10 +1,11 @@
 # 元素概览性整理
 ## 元素名字
+删除线的可能要改
 ### 主角：
 H 寻星<br/>
 He 闳渊<br/>
 Li <br/>
-Be 甘青<br/>
+Be ~~甘青~~<br/>
 B 孚灵<br/>
 C 元尘<br/>
 N Silvester=西尔瓦斯特<br/>
@@ -12,37 +13,37 @@ O 夏烁<br/>
 F 昊<br/>
 Ne 烟里火<br/>
 Na <br/>
-Mg Lisa=丽莎<br/>
-Al Jayden=杰登<br/>
+Mg Marika=玛丽卡,مليكة<br/>
+Al ~~Jayden=杰登~~<br/>
 Si Clark=克拉克<br/>
-P 烛明<br/>
+P ~~烛明~~<br/>
 S <br/>
 Cl Lingare=林加尔<br/>
-Ar 玄微<br/>
-K Kyla=凯菈<br/>
+Ar ~~玄微~~<br/>
+K ~~Kyla=凯菈~~<br/>
 Ca 夏泽/Gazelle<br/>
 Sc Bertram=伯特伦<br/>
 Ti Cras/天轩<br/>
-V Setri/谢槯<br/>
+V ~~Setri/谢槯~~<br/>
 Cr <br/>
 Mn 淮洛<br/>
 Fe 德毅<br/>
 Co <br/>
 Ni <br/>
 Cu <br/>
-Zn 白苏<br/>
+Zn ~~白苏~~<br/>
 Ga Agatha=阿加莎<br/>
 Ge Nerthus=娜尔瑟斯<br/>
 As 君行<br/>
 Se <br/>
-Br Hilde=希尔德<br/>
+Br ~~Hilde=希尔德~~<br/>
 Kr Krylify=科里派<br/>
 Rb Catarina=卡塔琳娜<br/>
 Sr <br/>
 Y Garnetz=嘉奈茨<br/>
-Zr 重方<br/>
-Nb Reise=莱瑟(Licht der Reise)<br/>
-Mo 璇枢<br/>
+Zr Azhar=阿扎尔,أَظْهَر<br/>
+Nb ~~Reise=莱瑟(Licht der Reise)~~<br/>
+Mo 璇枢/Nexusia<br/>
 Tc Mathison=麦席森<br/>
 Ru <br/>
 Rh Tisiphone=缇希芬<br/>
@@ -77,23 +78,23 @@ Ta Konstant=康斯坦特<br/>
 W <br/>
 Re Moritz Felix=莫里茨·菲利克斯<br/>
 Os <br/>
-Ir 秋雷<br/>
-Pt 宿风<br/>
+Ir ~~秋雷~~<br/>
+Pt ~~宿风~~<br/>
 Au Ani=艾妮<br/>
 Hg 露泽<br/>
 Tl Raven=瑞文<br/>
 Pb Lucius/Λούσιους=卢修斯<br/>
 Bi <br/>
 Po Valerie=瓦蕾丽<br/>
-At Mirabel=米拉贝尔<br/>
+At ~~Mirabel=米拉贝尔~~<br/>
 Rn Ilex=艾莱克思<br/>
 Fr Francois=弗朗索瓦<br/>
 Ra 闪/Shine<br/>
 Ac <br/>
 Th Ask=阿斯克<br/>
-Pa 緒/ちょ/Cho<br/>
+Pa 緒/ちょ(尼玛那个小ょ显示不出来)/Cho<br/>
 U Eloise=埃洛伊丝<br/>
-Np Theodoros/Θεόδωρος=西奥多罗斯<br/>
+Np Theodoros/Θεόδωρος=狄奥多洛<br/>
 Pu Ogden=欧格登<br/>
 Am Thomas=托马斯<br/>
 Cm Deneb=黛娜<br/>
@@ -115,7 +116,7 @@ Rg Xanthe=赞茜<br/>
 Cn Gwiazda=格威亚兹达<br/>
 Nh 律見（りつみ，ritsumi）<br/>
 Fl Mikhail Yurievich/Михаил Юрьевич=米哈伊尔·尤里耶维奇<br/>
-Mc Lyudmila Lvovna/Людмила Львовна=柳德米拉·利沃夫娜<br/>
+Mc Lyudmila Vladimirovna/Людмила Владимировна=柳德米拉·弗拉基米罗芙娜<br/>
 Lv <br/>
 Ts <br/>
 Og <br/>
