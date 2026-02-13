@@ -34,6 +34,60 @@ Pedro Robles
 
 ## 时间线
 
+1880s（约1880–1890）—墨西哥铁路快速扩张期。 铁路工程促成大规模流动劳工与跨州迁徙，为后续矿业人口北上与走私/运输网络奠定条件。Miguel Rodriguez及其亲人铁路北上寻找工作、矿区劳工与驮运机会；部分亲属北上至索诺拉、科阿韦拉等地。Miguel在铁路上和Santiago成为朋友，后者也是Nicolas的教父。
+
+约1890年—Miguel 在帕拉尔镇(Hidalgo del Parral)（或附近矿镇）遇见南下的Teresa Castillo和她的家人；二人不久后结婚并在该区或近矿镇短暂定居。
+
+1890s—Antonio Castillo在妹妹婚后不久离开Parral北上，先是正经做生意（旅店/酒馆），后是开始和其他Rodriguez/Castillo倒腾走私。整个1890s，他们的走私事业发展得不错。Miguel和Terese育有数名子女，其中一些夭折。
+
+1895年5月—Luz Maria Mendoza González出生。
+
+1896年7月30日—Nicolás Lorenzo Rodríguez Castillo出生。其后不久，Miguel和Santiago去往Santiago将会死去的矿场，目前尚不清楚确切的时间。
+
+1896年8月13日—Juliana Guadalupe López Sánchez 出生。
+
+1896年10月17日—Ignacio Hidalgo Reyes出生。Ignacio经常谎报出生年份为1894或1895年。
+
+1901年8月—Ignacio进入韦拉克鲁斯市（Veracruz）的一所小学就读。
+
+1901年—Miguel和Santiago所在的地方矿区小规模罢工与镇压。发起者之一的Santiago被处死，许多参与者死去或逃亡。Miguel和Teresa逃往奇瓦瓦城投奔Antonio等双方亲人。夫妻俩定居在了奇瓦瓦城或者周边小镇。Nicolas于此上了小学。
+
+1906年6月—Cananea罢工（历史事件）大规模矿工起义与镇压。
+
+1907年1月7至8日—Río Blanco事件（历史事件）—另一起重要工人运动。
+
+1907年—青年教师Arturo旅居Juliana居住的村庄。
+
+1910年上半年—Juliana在乡村教师Arturo及其友人Paloma的帮助下，前往墨西哥城打拼。
+
+1910年10月5日—马德罗(Francisco I. Madero)发布Plan of San Luis Potosí，号召人民在11月20日起义。
+
+1910年11月20日—墨西哥革命爆发。全国性动荡，铁路、电报与日常通行受影响；长途迁徙与军需运输频繁成为目标或被截断。
+
+1911年5月10日—比利亚(Pancho Villa)和奥罗斯科(Orozco)攻占华雷斯城（Ciudad Juárez）（北方关键节点；之后华雷斯城成为北方补给与通道枢纽）。此后少尉（Teniente）Pedro开始代表军方与本地走私/运输网络接触以获取军需物资，结识Rodriguez/Castillo家族成员。
+
+1911年5月19日—萨帕塔攻占库奥特拉（Cuautla）。
+
+1911年5月21日—马德罗和迪亚斯签订华雷斯城协定（the Treaty of Ciudad Juarez）。迪亚斯于29日正式辞职并前往欧洲。
+
+1911年6月7日—马德罗抵达墨西哥城，当天发生大地震。
+
+1911年11月28日—Plan de Ayala（阿亚拉计划）发布（“土地与自由”）。
+
+1911年底至1912年初—Juliana加入Zapatista阵营（具体时间还不确定）。她结识了Renata等战友，逐渐展现能力、获得信任。
+
+1911年全年— Nicolás活跃在华雷斯城（杂工、参与舅舅Antonio的门面/运输/仓库工作）与各势力有所接触。
+
+1913年2月9–19日—“悲剧的十天（Decena Trágica）”。
+
+1913年2月22日—马德罗被杀。中央权力更替带来更混乱的政治与军事环境。
+
+1913年2月下旬（大约2/24–2/28）—Juliana与Mateo在地方指挥官的授意下向北方出发执行任务。他们假扮父女以躲避检查。
+
+1913年3月上旬—Juliana抵达。
+任务总纲：携带宣讲材料，与北方中间人约定若干中转点（3 月上中旬至中下旬为关键到达窗口）；目标包括交换情报、争取物资/同情、确认或建立补给/安全接应点、宣讲Zapatista相关理念以争取基层支持等。
+
+
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
